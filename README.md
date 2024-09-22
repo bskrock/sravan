@@ -1,2 +1,0 @@
-# sravan
-area of triangle
